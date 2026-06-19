@@ -47,7 +47,7 @@ Atuo como Analista de Infra Cloud e Seguranca na Nexum, onde trabalho com provis
 
 ## Stats
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoPirozziVenancio&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues&include_all_commits=true&count_private=true)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoPirozziVenancio&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPirozziVenancio&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
