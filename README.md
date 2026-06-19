@@ -16,6 +16,8 @@ Analista de Infra Cloud & Seguranca com 2 anos de experiencia, focado em automac
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **Infraestrutura como Codigo**
 
@@ -49,9 +51,9 @@ Analista de Infra Cloud & Seguranca com 2 anos de experiencia, focado em automac
 
 ## GitHub Stats
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoPirozziVenancio&show_icons=true&theme=dark&hide_border=true)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoPirozziVenancio&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPirozziVenancio&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPirozziVenancio&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ## Contato
 
