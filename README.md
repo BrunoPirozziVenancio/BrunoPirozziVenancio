@@ -1,16 +1,12 @@
 # Bruno Pirozzi Venancio
 
-Analista de Infra Cloud & Seguranca com 2 anos de experiencia, focado em automacao de infraestrutura, provisionamento em nuvem e boas praticas DevOps.
+Analista de Infra Cloud e Seguranca com 2 anos de experiencia na area de infraestrutura e cloud. Trabalho diariamente com provisionamento de recursos em AWS e OCI, automacao com Terraform e Ansible, e configuracao de pipelines de CI/CD. Tenho interesse em aprofundar meus conhecimentos em Kubernetes e expandir minha experiencia para Azure e GCP.
 
-## Sobre mim
+## Experiencia
 
-- Atualmente trabalhando como Analista de Infra Cloud & Seguranca
-- Experiencia pratica com AWS e Oracle Cloud (OCI)
-- Automacao de infraestrutura com Terraform e Ansible
-- Estudando Azure, GCP e Kubernetes
-- TCC sobre Monitoramento Inteligente de Servidores Linux
+Atuo como Analista de Infra Cloud e Seguranca na Nexum, onde trabalho com provisionamento de infraestrutura em AWS e Oracle Cloud Infrastructure (OCI), automacao com Terraform e Ansible, configuracao de pipelines com GitHub Actions e Jenkins, e administracao de ambientes Linux.
 
-## Tecnologias e Ferramentas
+## Tecnologias
 
 **Cloud**
 
@@ -39,17 +35,17 @@ Analista de Infra Cloud & Seguranca com 2 anos de experiencia, focado em automac
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Projetos em Destaque
+## Repositorios
 
 | Repositorio | Descricao | Tecnologias |
 |---|---|---|
-| [aws-infra](https://github.com/BrunoPirozziVenancio/aws-infra) | Infraestrutura AWS com modulos Terraform e Ansible | Terraform, Ansible, AWS |
-| [oci-infra](https://github.com/BrunoPirozziVenancio/oci-infra) | Infraestrutura OCI com modulos Terraform e projetos praticos | Terraform, Ansible, OCI |
-| [cicd-pipeline](https://github.com/BrunoPirozziVenancio/cicd-pipeline) | Pipelines CI/CD com GitHub Actions e Jenkins | GitHub Actions, Jenkins |
+| [aws-infra](https://github.com/BrunoPirozziVenancio/aws-infra) | Modulos Terraform reutilizaveis e projetos praticos na AWS | Terraform, Ansible, AWS |
+| [oci-infra](https://github.com/BrunoPirozziVenancio/oci-infra) | Modulos Terraform reutilizaveis e projetos praticos na OCI | Terraform, Ansible, OCI |
+| [cicd-pipeline](https://github.com/BrunoPirozziVenancio/cicd-pipeline) | Pipelines de CI/CD com GitHub Actions e Jenkins | GitHub Actions, Jenkins |
 | [docker-labs](https://github.com/BrunoPirozziVenancio/docker-labs) | Projetos praticos com Docker e Docker Compose | Docker |
-| [kubernetes-labs](https://github.com/BrunoPirozziVenancio/kubernetes-labs) | Kubernetes do basico ao intermediario | Kubernetes |
+| [kubernetes-labs](https://github.com/BrunoPirozziVenancio/kubernetes-labs) | Estudo pratico de Kubernetes do basico ao intermediario | Kubernetes |
 
-## GitHub Stats
+## Stats
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoPirozziVenancio&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues&include_all_commits=true&count_private=true)
 
